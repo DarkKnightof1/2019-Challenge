@@ -1,0 +1,81 @@
+body {
+    font-family: "Noto Sans", "Noto Sans CJK JP", sans-serif;
+    background-color: white;
+    width: auto;
+}
+article {
+    max-width: 100%;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 1px solid gray;
+    text-align: left;
+    padding: 10px;
+}
+section.s1 {
+    display: inline;
+    width: 100%;
+
+}
+section.s2 {
+    display: inline;
+    width: 100%;
+
+
+}
+a {
+    color: white;
+    background-color: forestgreen;
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+div.titel {
+    color: white;
+
+}
+header {
+    text-align: center;
+    background-color: #1f2438;
+}
+nav {
+    display: inline;
+    background-color: forestgreen;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+h3 {
+    color: grey;
+}
+h4 {
+    color: grey;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+
+}
+
+li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    background-color: white;
+}
+
+a:hover {
+    background-color: black;
+}
+article.t2, article.t3 {
+    text-align: center;
+    max-width: 30%;
+    margin: auto;
+}
